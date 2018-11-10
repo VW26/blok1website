@@ -2,17 +2,17 @@ body {
     background-color: AliceBlue; 
     }
 h1 {
-    color: MidnightBlue;
+    color: Black;
     text-align: center;
     font-family: "monospace", Courier;
-    font-size: 100px;
-    text-decoration: underline;
+    font-size: 35px;
+   
     }
 p {
-    color: MidnightBlue;
+    color: Black;
     text-align: right;
     font-family: "monospace", Courier;
-    font-size: 50px;
+    font-size: 20px;
     
     }
     
