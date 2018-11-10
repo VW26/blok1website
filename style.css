@@ -12,6 +12,7 @@ p {
     text-align: right;
     font-family: "monospace", Courier;
     font-size: 200px;
+    text-decoration: underline;
     }
     
 a:link {
@@ -38,7 +39,8 @@ a:active {
     text-decoration: underline;
 }
  
-</style>
+
+
 
     
     
