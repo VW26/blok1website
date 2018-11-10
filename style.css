@@ -1,28 +1,29 @@
 body {
-    background-color: lavender; 
+    background-color: AliceBlue; 
     }
 h1 {
     color: MidnightBlue;
     text-align: center;
     font-family: "monospace", Courier;
-    font-size: 250px;
+    font-size: 100px;
+    text-decoration: underline;
     }
 p {
     color: MidnightBlue;
     text-align: right;
     font-family: "monospace", Courier;
-    font-size: 200px;
-    text-decoration: underline;
+    font-size: 50px;
+    
     }
     
 a:link {
-    color: slateblue; 
+    color: navy; 
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:visited {
-    color: navy;
+    color: lavender;
     background-color: transparent;
     text-decoration: none;
 }
