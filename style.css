@@ -4,14 +4,12 @@ body {
 h1 {
     color: Black;
     text-align: center;
-    font-family: "monospace", Courier;
     font-size: 35px;
    
     }
 p {
     color: Black;
-    text-align: right;
-    font-family: "monospace", Courier;
+    text-align: center;
     font-size: 20px;
     
     }
