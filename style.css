@@ -1,7 +1,41 @@
 body {
-    background-color: Thistle;
-    font-family: "Times New Roman", Times, serif;
-    <h1> p.ridge {border-style: ridge;  size 400p </h1>
-   <p> size 300p
+    background-color: lavender; 
+    }
+h1 {
+    color: MidnightBlue;
+    text-align: center;
+    font-family: "monospace", Courier;
+    font-size: 250px;
+    }
+    
+a:link {
+    color: slateblue; 
+    background-color: transparent; 
+    text-decoration: none;
 }
+
+a:visited {
+    color: navy;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: mystyRose;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: oldlace;
+    background-color: transparent;
+    text-decoration: underline;
+}
+ 
+</style>
+
+    
+    
+    
+    
 
