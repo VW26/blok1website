@@ -7,6 +7,12 @@ h1 {
     font-family: "monospace", Courier;
     font-size: 250px;
     }
+p {
+    color: MidnightBlue;
+    text-align: right;
+    font-family: "monospace", Courier;
+    font-size: 200px;
+    }
     
 a:link {
     color: slateblue; 
