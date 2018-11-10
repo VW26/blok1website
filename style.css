@@ -1,6 +1,7 @@
 body {
     background-color: Thistle;
     font-family: "Times New Roman", Times, serif;
-    p.ridge {border-style: ridge;
+    <h1> p.ridge {border-style: ridge;  size 400p </h1>
+   <p> size 300p
 }
 
