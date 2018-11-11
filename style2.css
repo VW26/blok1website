@@ -1,0 +1,45 @@
+body {
+    background-color: DeepSkyBLue;
+}
+
+h1 {
+    color: black;
+    font-size: 35px;
+    position: absolute;
+}
+h2{
+  color: MidnightBlue;
+    font-size: 35px;
+      position: absolute;
+ 
+}
+h3 {
+    color: MidnightBlue;
+    font-size: 35px;
+      position: absolute; 
+}
+h4 {
+    color: MidnightBlue;
+    font-size: 35px;
+      position: absolute;
+}
+h5 {
+    color: black;
+    font-size: 35px;
+      position: absolute;
+}
+h6 {
+    color: Midnigtblue;
+    font-size: 35px;
+      position: absolute;
+}
+h7 {
+    color: MidnightBlue;
+    font-size: 35px;
+      position: absolute;
+}
+p {
+    color: midnightBlue;
+    font-size: 20px;
+      position: absolute;
+}
