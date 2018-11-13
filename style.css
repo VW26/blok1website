@@ -1,5 +1,5 @@
 body {
-    background-color: IslandParadise; 
+    background-color:LightPink ; 
     }
 h1 {
     color: Black;
@@ -20,7 +20,7 @@ p {
     }
     
 a:link {
-    color: BalletSliper; 
+    color: Crimson; 
     background-color: transparent; 
     text-decoration: none;
 }
@@ -32,7 +32,7 @@ a:visited {
 }
 
 a:hover {
-    color: mystyRose;
+    color: mistyRose;
     background-color: transparent;
     text-decoration: underline;
 }
