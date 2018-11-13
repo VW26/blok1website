@@ -16,33 +16,41 @@ p {
     font-size: 20px;
     line-height: 1.5;
     vertical-align: middle;
-    font-family:"Verdana, Geneva, sans-serif;
+    font-family:"Tahoma, Geneva, sans-serif;
 }
     
     }
     
 a:link {
-    color: Crimson; 
+    color: oldlace; 
     background-color: transparent; 
     text-decoration: none;
+    line-height: 1.5;
+    vertical-align: middle 
 }
 
 a:visited {
     color: lavender;
     background-color: transparent;
     text-decoration: none;
+    line-height: 1.5;
+    vertical-align: middle 
 }
 
 a:hover {
     color: mistyRose;
     background-color: transparent;
     text-decoration: underline;
+    line-height: 1.5;
+    vertical-align: middle 
 }
 
 a:active {
     color: oldlace;
     background-color: transparent;
     text-decoration: underline;
+    line-height: 1.5;
+    vertical-align: middle 
 }
  
 
