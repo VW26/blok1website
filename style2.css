@@ -6,40 +6,49 @@ h1 {
     color: black;
     font-size: 35px;
     position: absolute;
+    font-family:"Arial Black", Gadget, sans-serif;
+}
 }
 h2{
   color: black;
-    font-size: 35px;
-   position: absolute;
+  font-size: 35px;
+  position: absolute;
+  font-family:"Arial Black", Gadget, sans-serif;
  
 }
 h3 {
     color: black;
     font-size: 35px;
-      position: absolute; 
+    position: absolute;
+    font-family:"Arial Black", Gadget, sans-serif;
 }
 h4 {
     color: black;
     font-size: 35px;
-      position: absolute;
+    position: absolute;
+    font-family:"Arial Black", Gadget, sans-serif;
 }
 h5 {
     color: black;
     font-size: 35px;
-      position: absolute;
+    position: absolute;
+    font-family:"Arial Black", Gadget, sans-serif;
 }
 h6 {
     color: black;
     font-size: 35px;
-      position: absolute;
+    position: absolute;
+    font-family:"Arial Black", Gadget, sans-serif;
 }
 h7 {
     color: black;
     font-size: 35px;
-      position: absolute;
+    position: absolute;  \
+    font-family:"Arial Black", Gadget, sans-serif;
 }
 p {
     color: black;
     font-size: 20px;
-      position: absolute;
+    position: absolute;
+    font-family:"Verdana, Geneva", sans-serif;
 }
