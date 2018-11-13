@@ -8,18 +8,18 @@ h1 {
     position: absolute;
 }
 h2{
-  color: MidnightBlue;
+  color: black;
     font-size: 35px;
-      position: absolute;
+   position: absolute;
  
 }
 h3 {
-    color: MidnightBlue;
+    color: black;
     font-size: 35px;
       position: absolute; 
 }
 h4 {
-    color: MidnightBlue;
+    color: black;
     font-size: 35px;
       position: absolute;
 }
@@ -29,17 +29,17 @@ h5 {
       position: absolute;
 }
 h6 {
-    color: Midnigtblue;
+    color: black;
     font-size: 35px;
       position: absolute;
 }
 h7 {
-    color: MidnightBlue;
+    color: black;
     font-size: 35px;
       position: absolute;
 }
 p {
-    color: midnightBlue;
+    color: black;
     font-size: 20px;
       position: absolute;
 }
