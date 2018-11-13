@@ -1,1 +1,52 @@
+body {
+    background-color:#b8ccff;
+    
+    }
+h {
+    color: Black;
+    text-align: center;
+    font-size: 35px
+    font-family:"Arial Black", Gadget, sans-serif;
+    text-align: center;
+    }
+p {
+    color: Black;
+    text-align: center;
+    font-size: 20px;
+    font-family:"Arial Black", Gadget, sans-serif;
+    text-align: center;
+}
+    
+    }
+    
+a:link {
+    color: mistyrose; 
+    background-color: transparent; 
+    text-decoration: none;
+    line-height: 1.5;
+    vertical-align: middle 
+}
 
+a:visited {
+    color: lavender;
+    background-color: transparent;
+    text-decoration: none;
+    line-height: 1.5;
+    vertical-align: middle 
+}
+
+a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+    line-height: 1.5;
+    vertical-align: middle 
+}
+
+a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+    line-height: 1.5;
+    vertical-align: middle 
+}
