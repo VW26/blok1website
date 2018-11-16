@@ -4,23 +4,23 @@ body {
 h {
     color: Black;
     text-align: center;
-    font-size: 35px
+    font-size: 50px
     font-family:"Arial Black", Gadget, sans-serif;
-    text-align: center;
+    text-align: middle;
     }
 p {
     color: Black;
     text-align: center;
-    font-size: 20px;
+    font-size: 35px;
     font-family:"Arial Black", Gadget, sans-serif;
-    text-align: center;
+    text-align: middle;
 }
   li {
     color: Black;
     text-align: center;
-    font-size: 20px;
+    font-size: 35px;
     font-family:"Arial Black", Gadget, sans-serif;
-    text-align: center;  
+    text-align: middle;  
     }
     
 
