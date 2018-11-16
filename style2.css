@@ -1,24 +1,60 @@
 body {
     background-color: #edffdb;
     }
-h {
+h1 {
     color: Black;
     text-align: center;
-    font-size: 50px
-    font-family:"Arial Black", Gadget, sans-serif;
+    font-size: 70px
+   font-family:"Arial Black", Gadget, sans-serif;
     text-align: center;
     }
+h2 {
+    color: Black;
+    text-align: center;
+    font-size: 70px
+   font-family:"Arial Black", Gadget, sans-serif;
+    text-align: center;
+    }
+h3 {
+    color: Black;
+    text-align: center;
+    font-size: 70px
+   font-family:"Arial Black", Gadget, sans-serif;
+    text-align: center;
+    }
+h4 {
+    color: Black;
+    text-align: center;
+    font-size: 70px
+   font-family:"Arial Black", Gadget, sans-serif;
+    text-align: center;
+    }
+h5 {
+    color: Black;
+    text-align: center;
+    font-size: 70px
+   font-family:"Arial Black", Gadget, sans-serif;
+    text-align: center;
+    }
+h6 {
+    color: Black;
+    text-align: center;
+    font-size: 70px
+   font-family:"Arial Black", Gadget, sans-serif;
+    text-align: center;
+    }
+
 p {
     color: Black;
     text-align: center;
-    font-size: 35px;
+    font-size: 40px;
     font-family:"Arial Black", Gadget, sans-serif;
     text-align: center;
 }
-  li {
+  ul {
     color: Black;
     text-align: center;
-    font-size: 35px;
+    font-size: 40px;
     font-family:"Arial Black", Gadget, sans-serif;
     text-align: center;
     }
