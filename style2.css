@@ -6,21 +6,21 @@ h {
     text-align: center;
     font-size: 50px
     font-family:"Arial Black", Gadget, sans-serif;
-    text-align: middle;
+    text-align: center;
     }
 p {
     color: Black;
     text-align: center;
     font-size: 35px;
     font-family:"Arial Black", Gadget, sans-serif;
-    text-align: middle;
+    text-align: center;
 }
   li {
     color: Black;
     text-align: center;
     font-size: 35px;
     font-family:"Arial Black", Gadget, sans-serif;
-    text-align: middle;  
+    text-align: center;
     }
     
 
@@ -30,7 +30,7 @@ a:link {
     background-color: transparent; 
     text-decoration: none;
     line-height: 1.5;
-    vertical-align: middle 
+   
 }
 
 a:visited {
